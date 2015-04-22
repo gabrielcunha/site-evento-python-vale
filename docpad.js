@@ -106,6 +106,16 @@ module.exports = {
         logo: "themes/yellow-swan/img/designa.png",
         url: "http://designa.com.br"
       },
+      {
+        name: "Programe em Python",
+        logo: "themes/yellow-swan/img/programeempython.png",
+        url: "http://programeempython.com.br"
+      },
+      {
+        name: "ZNC",
+        logo: "themes/yellow-swan/img/znc-logo.png",
+        url: "http://znc.com.br/"
+      },
     ],
 
     // Theme path
