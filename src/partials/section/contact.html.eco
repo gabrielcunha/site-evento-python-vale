@@ -1,6 +1,6 @@
 <h2 class="section-title"><%= @labels['contact'] %></h2>
 <div style="font-size: 36px;">
-    <a href="mailto:giovaneliberato@gmail.com?subject=[Python Vale]"><i class="fa fa-envelope"></i></a>&nbsp;&nbsp;
+    <!--<a href="mailto:giovaneliberato@gmail.com?subject=[Python Vale]"><i class="fa fa-envelope"></i></a>&nbsp;&nbsp;-->
     <a href="https://www.facebook.com/pythonvale"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;
     <a href="https://www.twitter.com/pythonvale"><i class="fa fa-twitter"></i></a>
 </div style="font-size: 36px;">

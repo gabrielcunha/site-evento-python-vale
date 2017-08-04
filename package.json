@@ -2,7 +2,7 @@
   "name": "ConfBoilerplate",
   "version": "0.2.0",
   "description": "A kickstart to create websites for conference/events.",
-  "homepage": "http://confboilerplate.com",
+  "homepage": "https://github.com/braziljs/conf-boilerplate",
   "repository": {
     "type" : "git",
     "url" : "http://github.com/braziljs/conf-boilerplate.git"
