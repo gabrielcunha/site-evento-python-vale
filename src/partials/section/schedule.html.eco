@@ -1,5 +1,4 @@
 <h2 class="section-title"><%= @labels['schedule'] %></h2>
-<p>Veja a grade do nosso evento</p>
 <div class="schedule-tbl">
   <table>
     <thead>
